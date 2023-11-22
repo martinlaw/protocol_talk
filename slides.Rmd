@@ -1,5 +1,5 @@
 ---
-title: "Publishing a Protocol"
+title: "Publishing a Protocol: lived experience"
 author: "Martin Law"
 date: "2023-11-28"
 output: beamer_presentation
@@ -9,27 +9,35 @@ output: beamer_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+# Title slide
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# Show screenshots of the protocols
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+PAPMAT, NOTACS STRATOSPHERE, PIPAH
 
-## Slide with Bullets
+# Why publish protocol?
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+# Lessons
 
-## Slide with R Output
+Templates can be very different
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
+Consider updating your CTU's own templates to match a journal's (probably that of *Trials*)
 
-## Slide with Plot
+"Converting" a protocol is harder the more developed the protocol is... so start early
 
-```{r pressure}
-plot(pressure)
-```
+# Authorship
+
+Who should the authors be?
+
+# Related: The SAP
+
+Publish this too. 
+
+Is it counted as a publication in its own right? Always? Or only when published fully separately from the protocol? (See Sarah Dawson's scholar page)
+
+Who should be the authors of the SAP?
+
+
+
+
 
