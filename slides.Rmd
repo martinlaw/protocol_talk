@@ -2,40 +2,62 @@
 title: "Publishing a Protocol: lived experience"
 author: "Martin Law"
 date: "2023-11-28"
-output: beamer_presentation
+output: powerpoint_presentation
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Title slide
-
-# Show screenshots of the protocols
 
 PAPMAT, NOTACS STRATOSPHERE, PIPAH
 
-# Why publish protocol?
+# Why publish the trial protocol?
 
-# Lessons
+ - Increased validity;
+ - Helps other researchers:
+    - Plan study with similar design;
+    - Know that this study is taking place and its details (beyond clinicaltrials.gov);
+ - Publish or perish! Rare opportunity for applied statisticians to be the first author;
+ - May be the only published paper from the study.
 
-Templates can be very different
 
-Consider updating your CTU's own templates to match a journal's (probably that of *Trials*)
+# How to publish the trial protocol
 
-"Converting" a protocol is harder the more developed the protocol is... so start early
+ - Choose a journal (spoiler alert: it's *Trials*);
+ - Use the journal's template and share it.
+
+# Practical lessons
+
+ - Your CTU's template may be very different to the journal's template, so consider updating your CTU's own templates to match the journal's.
+ 
+ - Start early:
+   - If "converting" a protocol to the journal template, this becomes harder the more developed the protocol is.
+   - If using the journal template as a guide only, there is still a great deal of work to be done.
+   
+ - Expect it to take a long time, so...
+ 
+ - Get buy-in from co-authors!
 
 # Authorship
 
-Who should the authors be?
+See https://www.icmje.org.
 
-# Related: The SAP
+Same criteria as any other published manuscript:
+  - Substantial contributions to the conception/design of the work; or the acquisition/analysis/interpretation of data for the work; AND
+  - Drafting/critically reviewing the intellectual content; AND
+  - Final approval of the version to be published; AND
+  - Agreement to be accountable for all aspects of the work. 
+  
 
-Publish this too. 
+# Related: The Statistical Analysis Plan
 
-Is it counted as a publication in its own right? Always? Or only when published fully separately from the protocol? (See Sarah Dawson's scholar page)
+Publish this too! How? For *Trials* at least, in one of the following ways:
 
-Who should be the authors of the SAP?
+ - Directly within the submitted protocol (if trial is simple);
+ - As an appendix alongside the submitted protocol;
+ - As an "addendum"/update to a published protocol;
+ - As a completely separate submission (inc. authors and DOI)
 
 
 
