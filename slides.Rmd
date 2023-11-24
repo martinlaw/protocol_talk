@@ -1,16 +1,22 @@
 ---
 title: "Publishing a Protocol: lived experience"
 author: "Martin Law"
-date: "2023-11-28"
-output: powerpoint_presentation
+institute: "Royal Papworth Hospital and MRC Biostatistics Unit"
+date: "28th November 2023"
+output:
+  beamer_presentation:
+    template: template-rmd-nologo.tex
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+```{r, out.width="95%"}
+knitr::include_graphics("figs/protocols.png")
+```
 
-PAPMAT, NOTACS STRATOSPHERE, PIPAH
+
 
 # Why publish the trial protocol?
 
@@ -18,6 +24,7 @@ PAPMAT, NOTACS STRATOSPHERE, PIPAH
  - Helps other researchers:
     - Plan study with similar design;
     - Know that this study is taking place and its details (beyond clinicaltrials.gov);
+ - Increased impact;
  - Publish or perish! Rare opportunity for applied statisticians to be the first author;
  - May be the only published paper from the study.
 
@@ -26,6 +33,28 @@ PAPMAT, NOTACS STRATOSPHERE, PIPAH
 
  - Choose a journal (spoiler alert: it's *Trials*);
  - Use the journal's template and share it.
+
+
+# Authorship
+
+See https://www.icmje.org.
+
+Same criteria as any other published manuscript:
+
+  - Substantial contributions to the conception/design of the work; or the acquisition/analysis/interpretation of data for the work; AND
+  - Drafting/critically reviewing the intellectual content; AND
+  - Final approval of the version to be published; AND
+  - Agreement to be accountable for all aspects of the work. 
+  
+
+# Aside: The Statistical Analysis Plan
+
+Publish this too! How? For *Trials* at least, in one of the following ways:
+
+ - Directly within the submitted protocol (if trial is simple);
+ - As an appendix alongside the submitted protocol;
+ - As an "addendum"/update to a published protocol;
+ - As a completely separate submission (inc. authors and DOI)
 
 # Practical lessons
 
@@ -38,28 +67,9 @@ PAPMAT, NOTACS STRATOSPHERE, PIPAH
  - Expect it to take a long time, so...
  
  - Get buy-in from co-authors!
+ 
+ 
+# Discussion
 
-# Authorship
-
-See https://www.icmje.org.
-
-Same criteria as any other published manuscript:
-  - Substantial contributions to the conception/design of the work; or the acquisition/analysis/interpretation of data for the work; AND
-  - Drafting/critically reviewing the intellectual content; AND
-  - Final approval of the version to be published; AND
-  - Agreement to be accountable for all aspects of the work. 
-  
-
-# Related: The Statistical Analysis Plan
-
-Publish this too! How? For *Trials* at least, in one of the following ways:
-
- - Directly within the submitted protocol (if trial is simple);
- - As an appendix alongside the submitted protocol;
- - As an "addendum"/update to a published protocol;
- - As a completely separate submission (inc. authors and DOI)
-
-
-
-
+What is your experience of publishing trial protocols?
 
